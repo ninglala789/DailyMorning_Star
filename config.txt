@@ -12,13 +12,13 @@
 
 # 信息配置
 # 所在省份
-"province": "内蒙古",
+"province": "日本",
 # 所在城市
-"city": "通辽",
+"city": "仙台",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
-"birthday1": {"name": "憨憨", "birthday": "2000-07-28"},
+"birthday1": {"name": "憨憨", "birthday": "r2000-06-27"},
 # 生日2
-"birthday2": {"name": "bz", "birthday": "1998-02-04"},
+"birthday2": {"name": "bz", "birthday": "r1998-01-06"},
 # 在一起的日子，格式同上
 "love_date": "2021-05-21"
 }
